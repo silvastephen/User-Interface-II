@@ -141,3 +141,10 @@ table {
 	font-size: 45px;
 	font-family: 'Playfair Display', serif;
   }
+
+
+@media only screen and (max-width: 800px){
+	body {
+		background-color: lightskyblue;
+	}
+}
